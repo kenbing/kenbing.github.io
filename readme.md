@@ -98,7 +98,7 @@
 
 # 开源贡献
 
-## [nsqphp](github.com/davegardnerisme/nsqphp '项目地址')
+## [nsqphp](https://github.com/davegardnerisme/nsqphp '项目地址')
 
 补丁号：
 
