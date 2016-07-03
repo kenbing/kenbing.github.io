@@ -84,7 +84,7 @@
 
 # 技能清单
 
-- 开发环境: LNMP/Openresy
+- 开发环境: LNMP/openresy
 - Linux: Archlinux/CentOS/Ubuntu
 - RPC框架: Thrift/ProtoBuf
 - 前端库: JQuery/Bootstrap/Highchart
@@ -100,14 +100,14 @@
 
 ## [nsqphp](https://github.com/davegardnerisme/nsqphp '项目地址')
 
-补丁号：
+Pull request：
 
-说明：为NSQ官方php客户端贡献过补丁，使其支持多字节字符的传输。
+说明：为NSQ官方php客户端贡献过补丁，使其支持多字节字符的传输
 
 ---
 
 # 自我评价 
 
-工作上，善于表达，理解能力强，沟通有技巧，能妥当处理组内外的合作，英文流利，无压力阅读英文文档，善用 Google, StackOverFlow, 混迹开源社区;
+工作上，善于表达，理解能力强，沟通有技巧，能妥当处理组内外的合作，英文流利，阅读英文文档无压力，善用 Google, StackOverFlow, 混迹开源社区;
 
-生活中，热爱摇滚乐，玩过band，当过背包客，曾耗时二个月从大理途至拉萨;
+生活中，热爱摇滚乐，玩过band，当过背包客，曾耗时二个月从云南大理途步至西藏拉萨;
