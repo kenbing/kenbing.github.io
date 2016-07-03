@@ -100,7 +100,7 @@
 
 ## [nsqphp](https://github.com/davegardnerisme/nsqphp '项目地址')
 
-Pull request：
+Pull request：https://github.com/davegardnerisme/nsqphp/pull/48
 
 说明：为NSQ官方php客户端贡献过补丁，使其支持多字节字符的传输
 
