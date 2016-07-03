@@ -39,7 +39,7 @@
 
 ### 2. 酷狗广告位接口
 
-采用 Openresty 实现单机 (2*6core + 64G) 2W QPS，支持横向扩容的服务集群，引入 Redis 3.0 新集群特性解决原来单点问题及减少运维成本
+处理酷狗平台及客户端所有广告入口的请求，采用 Openresty 实现单机 (2*6core + 64G) 2W QPS，支持横向扩容的服务集群保证服务的稳定，引入 Redis 3.0 新集群特性解决原来单点问题及减少运维成本
 
 ### 3. 通用推拉流平台
 
@@ -49,7 +49,7 @@
 
 ### 1. 斩仙游戏
 
-- 负责礼包模块的开发
+- 负责游戏礼包模块的开发
 - 负责腾讯特权开通及相关的相关所有运营营收活动
 
 ### 2. 游戏运营后台
@@ -84,7 +84,7 @@
 
 # 技能清单
 
-- 开发环境: LNMP/openresy
+- 开发环境: LNMP/Openresy
 - Linux: Archlinux/CentOS/Ubuntu
 - RPC框架: Thrift/ProtoBuf
 - 前端库: JQuery/Bootstrap/Highchart
@@ -108,6 +108,6 @@ Pull request：https://github.com/davegardnerisme/nsqphp/pull/48
 
 # 自我评价 
 
-工作上，善于表达，理解能力强，沟通有技巧，能妥当处理组内外的合作，英文流利，阅读英文文档无压力，善用 Google, StackOverFlow, github, 混迹部分开源社区;
+工作上，善于表达，理解能力强，沟通有技巧，能妥当处理组内外的合作，英文流利，阅读英文文档无压力，善用 Google, StackOverFlow, Github, 混迹部分开源社区;
 
 生活中，热爱摇滚乐，玩过band，当过背包客，曾耗时二个月从云南大理途步至西藏拉萨;
