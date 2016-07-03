@@ -15,7 +15,7 @@
 - Email: kenbinglee@gmail.com
 - QQ: 6904505
 - Github: github.com/kenbing
-- Blog: 0xff00.com
+- Blog: [0xff00.com](http://0xff00.com)
 
 ---
 
