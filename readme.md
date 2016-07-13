@@ -88,7 +88,8 @@
 - Linux: Archlinux/CentOS/Ubuntu
 - RPC框架: Thrift/ProtoBuf
 - 前端库: JQuery/Bootstrap/Highchart
-- 数据库: Mysql/Memcache/Redis
+- 数据库: Mysql
+- 缓存: Memcache/Redis
 - 虚拟化: Docker
 - 消息队列: NSQ/Kafka
 - 版本管理: Git
