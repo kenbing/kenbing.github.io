@@ -32,22 +32,17 @@
 ### 1. 基于Facebook开放平台构建的广告自投系统（FMP）
 
 FMP架构审查优化
-
 - FMP 用户数据访问权限安全优化
 - FMP 登陆安全/链路安全 问题优化
-- Adapi 架构图梳理及标注单点服务
+- Adapi 架构图梳理及输出业务接口文档
 - Adapi 白名单机器整理并推动IT部及运维部清理过期机器
-- 输出接口文档
 
 FMP业务需求开发
-
-- 广告创建业务异步化
-- 广告开闭业务异步化
-- 修复广告统计SQL慢查
+- 广告创建/开闭业务异步化
+- 修复广告统计SQL慢查并普及调优方案
 - 修复批量接口500丢数据疑难问题
 
 流程优化
-
 - 协同改进组内gitflow
 - 推动运维部门机器权责归属流程 
 
@@ -57,14 +52,12 @@ FMP业务需求开发
 ### 1. 酷狗直播
 
 日常业务开发维护
-
 - 送礼模块
 - 关注系统
 - 鉴黄系统
 - 结算模块
 
 营收活动开发
-
 - 2015年酷音乐盛典
 - 魏晨粉丝见面会等
 
@@ -107,15 +100,15 @@ FMP业务需求开发
 
 # 技能清单
 
-- 开发环境: LNMP/Openresy
+- 开发平台: LNMP/Openresy
 - Linux: Archlinux/CentOS/Ubuntu
 - RPC框架: Thrift/ProtoBuf
 - 前端库: JQuery/Bootstrap/Highchart
 - 数据库: Mysql
 - 缓存: Memcache/Redis
-- 虚拟化: Docker
+- 虚拟化: Docker/VBox
 - 消息队列: NSQ/Kafka
-- 版本管理: Git
+- 版本管理: Git/SVN
 - 编辑器: Vim
 - 日志相关: ELK
 
@@ -133,9 +126,7 @@ Pull request：https://github.com/davegardnerisme/nsqphp/pull/48
 
 # 自我评价 
 
-关注分布式领域，擅长构建高并发高可用平台。
-
-工作上，善于表达，理解能力强，沟通有技巧，能妥当处理组内外的合作，英文流利，轻松阅读英文文档，善用 Google, StackOverFlow, Github, 活跃于部分开源社区。
+工作上，关注分布式领域，擅长构建高并发高可用平台，善于表达，理解能力强，沟通有技巧，能妥当处理组内外的合作，英文流利，轻松阅读英文文档，善用 Google, StackOverFlow, Github, 活跃于部分开源社区。
 
 生活中，热爱摇滚乐，玩过band，当过背包客。
 
