@@ -10,7 +10,6 @@
 
 ---
 
-
 # 联系方式
 
 - Tel: 13250201567
@@ -20,7 +19,6 @@
 - Blog: http://0xff00.com
 
 ---
-
 
 # 工作经历
 
@@ -100,7 +98,6 @@
 
 负责游戏日志实时推送至中央BI系统，通过调用 Scribe api 实现分布式日志收集及推送服务
 
-
 ---
 
 # 技能清单
@@ -135,6 +132,7 @@ Pull request：https://github.com/davegardnerisme/nsqphp/pull/48
 
 生活中，热爱摇滚乐，玩过band，当过背包客。
 
+---
 
 # 其他经历
 
